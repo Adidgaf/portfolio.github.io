@@ -6,6 +6,7 @@ Welcome to the repository for my personal portfolio website! This site showcases
 
 The portfolio is built using **HTML**, **CSS** and **JavaScript**, featuring a responsive layout that adapts to different screen sizes. It highlights my projects and contact information.
 
+You can visit my portfolio at https://adidgaf.github.io/portfolio.github.io/
 ## Technologies Used
 
 - HTML5
