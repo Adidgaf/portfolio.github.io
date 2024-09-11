@@ -1,6 +1,10 @@
 body {
     background-color: black;
     color: white;
+    margin: 0; 
+        padding: 0; 
+        width: 100%; 
+        height: 100%;
 }
 
 #mode-button {
@@ -42,13 +46,13 @@ h1 {
 
 #profile-intro-container {
     background-color: rgb(222, 112, 255);
-    height: fit-content;
-    width: fit-content;
+    height: 100%;
+    width: 100%;
     justify-content: center;
     align-items: center;
     padding: 30px;
     border-radius: 20px;
-    display: flex;
+    display:flex;
     flex-direction: row;
 }
 
@@ -62,7 +66,7 @@ h1 {
 }
 
 #profile-text-container {
-    max-width: 600px;
+    max-width: 1200px;
     margin-right: 50px;
 }
 
@@ -101,7 +105,7 @@ span {
 }
 
 #project-text-container {
-    max-width: 600px;
+    max-width: 1200px;
     margin-left: 50px;
 }
 
@@ -123,7 +127,7 @@ span {
 }
 
 #skill-intro-container-inner {
-    max-width: 600px;
+    max-width: 1200px;
     margin-right: 50px;
 }
 
@@ -187,6 +191,6 @@ a {
     }
 
     #skill-intro-container-outer {
-        width: 87%;
+        width: 100%;
     }
 }
